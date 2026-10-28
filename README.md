@@ -6,7 +6,7 @@ Currently building: I Alpace API sotck trading platform for researcha dnc rcuica
 ## Highlights
 - 🥉 CyberPatriot: 1st place in state, 14th nationally
 - 🥉 Stellar Xplorers: 1st place Nation Wide
-- 🥉 Lockheed Martin CyberQuest: 3rd place
+- 🎓 NOVA Club Founder for Auntmous robotics with RC cars and Planes
 - 🎓 GHP State Semifinalist, Computer Science (cybersecurity and AI)
 - 🏆 Academic Postal: 1st place nationwide (individual)
 
